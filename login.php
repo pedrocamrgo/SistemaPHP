@@ -14,7 +14,6 @@
     <input type="text" name="username" placeholder="Usuário" id="username"><br>
     <input type="password" name="password" placeholder="Senha" id="password"><br>
     <input type="submit" value="Login" id="submit">
-    <link href="cadastro.php"> Cadastre-se </link>
     </form>
     </div>
     
